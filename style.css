@@ -1,0 +1,29 @@
+.main{
+    border: 2px solid black;
+    width: 200px;
+    margin: 0 auto;
+   
+}
+.result{
+    width: 97%;
+    background-color: violet;
+    color: red;
+}
+
+
+.Btn{
+    width: 40px;
+    background-color: lightsalmon;
+    margin: 2px;
+}
+.halfBtn{
+    background-color: yellowgreen;
+    width: 100%;
+    margin-top: 5px;
+    
+}
+.clearBtn{
+    width: 100%;
+    margin-top: 10px;
+    background-color: palegreen;
+}
